@@ -1,0 +1,15 @@
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.csproj.AssemblyReference.cache
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.AssemblyInfoInputs.cache
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.AssemblyInfo.cs
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.csproj.CoreCompileInputs.cache
+D:\kursova\HomeworkOOP\HomeworkOOP\bin\Debug\net6.0\HomeworkOOP.exe
+D:\kursova\HomeworkOOP\HomeworkOOP\bin\Debug\net6.0\HomeworkOOP.deps.json
+D:\kursova\HomeworkOOP\HomeworkOOP\bin\Debug\net6.0\HomeworkOOP.runtimeconfig.json
+D:\kursova\HomeworkOOP\HomeworkOOP\bin\Debug\net6.0\HomeworkOOP.dll
+D:\kursova\HomeworkOOP\HomeworkOOP\bin\Debug\net6.0\HomeworkOOP.pdb
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.dll
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\refint\HomeworkOOP.dll
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.pdb
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\HomeworkOOP.genruntimeconfig.cache
+D:\kursova\HomeworkOOP\HomeworkOOP\obj\Debug\net6.0\ref\HomeworkOOP.dll
